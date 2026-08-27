@@ -1,46 +1,46 @@
-<!-- صورة الغلاف الخاصة بالاستوديو (استبدل الرابط برابط تصميمك) -->
-<img src="https://via.placeholder.com/800x200/000000/FFFFFF/?text=KYNEX+Digital+Studio+Header" alt="KYNEX Digital Studio GitHub README header image">
+<div align="center">
+  <!-- صورة الغلاف الرئيسية للاستوديو -->
+  <img src="1000097117.jpg" alt="KYNEX Digital Studio Header" width="100%">
+</div>
 
-<!-- أزرار وسائل التواصل الاجتماعي -->
-<p>
-  <a href="https://www.linkedin.com/company/kynex-studio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a> 
-  <a href="https://www.instagram.com/kynex.studio/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a> 
-  <a href="https://www.tiktok.com/@kynex.studio"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="25"></a>
+<br>
+
+<p align="center">
+  <!-- أزرار وسائل التواصل ومعلومات الاتصال الحقيقية الخاصة بك -->
+  <a href="https://www.linkedin.com/in/yann-yamin-917284398"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a> 
+  <a href="https://wa.me/21377472361"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
+  <a href="mailto:kynexstudio777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
 </p>
 
-<!-- قسم الترويج لموقع الاستوديو -->
 <h2>🌐 Discover KYNEX Digital Studio</h2>
-  <a href="https://kynex-studio.vercel.app" target="_blank" rel="noreferrer nofollow">
-      <!-- استبدل هذا الرابط بصورة ترويجية لموقع الاستوديو الخاص بك -->
-      <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff/?text=Visit+Our+Platform" alt="KYNEX Studio Website" height="400" >
+<p>
+  <a href="https://kynex-studio-gwha.vercel.app/" target="_blank" rel="noreferrer nofollow">
+      <!-- الأيقونة الذهبية كزر مرئي يوجه نحو موقعك -->
+      <img src="1000097319.png" alt="Visit KYNEX Studio Website" height="200">
   </a>
+  <br>
+  <strong><a href="https://kynex-studio-gwha.vercel.app/">Visit Our Official Platform ➡️</a></strong>
+</p>
 
-<!-- قسم الخدمات أو المشاريع (بديل للمقالات) -->
 <h2>🚀 What We Do</h2>
-  <ul>
-    <li><a href="#" target="_blank" rel="noreferrer nofollow">Visual Identity & Branding</a></li>
-    <li><a href="#" target="_blank" rel="noreferrer nofollow">Web Platform Development & Deployment</a></li>
-    <li><a href="#" target="_blank" rel="noreferrer nofollow">Workflow Automation (Webhooks)</a></li>
-    <li><a href="#" target="_blank" rel="noreferrer nofollow">Global Digital Marketing Strategy</a></li>
-  </ul>
+<ul>
+  <li><strong>Visual Identity & Branding:</strong> Crafting premium digital presences.</li>
+  <li><strong>Web Platform Development:</strong> Building fast, scalable, and responsive platforms.</li>
+  <li><strong>Workflow Automation:</strong> Integrating webhooks, data pipelines, and notifications.</li>
+  <li><strong>Lead Generation Systems:</strong> Architecting high-converting digital funnels.</li>
+</ul>
 
-<!-- قسم التقنيات والأدوات المستخدمة (بديل للنشرة البريدية) -->
 <h2>🛠️ Our Tech Stack & Tools</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" alt="Make.com">
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" alt="Make.com">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-<!-- إحصائيات GitHub مخصصة لحسابك -->
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aymenaymensa777-ship-it&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aymenaymensa777-ship-it&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 </p>
-
-<!-- زر التواصل أو الدعم -->
-<h2>📫 Contact Us</h2>
-  <a href="mailto:your-email@kynex.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact KYNEX" height="40">
-  </a>
