@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- صورة الغلاف الرئيسية للاستوديو -->
-  <img src="1000097117.jpg" alt="KYNEX Digital Studio Header" width="100%">
+  <!-- صورة الغلاف الرئيسية -->
+  <img src="hh.jpg" alt="KYNEX Digital Studio Header" width="100%">
 </div>
 
 <br>
 
 <p align="center">
-  <!-- أزرار وسائل التواصل ومعلومات الاتصال الحقيقية الخاصة بك -->
+  <!-- أزرار التواصل الاجتماعي -->
   <a href="https://www.linkedin.com/in/yann-yamin-917284398"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a> 
   <a href="https://wa.me/21377472361"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
   <a href="mailto:kynexstudio777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
@@ -15,8 +15,8 @@
 <h2>🌐 Discover KYNEX Digital Studio</h2>
 <p>
   <a href="https://kynex-studio-gwha.vercel.app/" target="_blank" rel="noreferrer nofollow">
-      <!-- الأيقونة الذهبية كزر مرئي يوجه نحو موقعك -->
-      <img src="1000097319.png" alt="Visit KYNEX Studio Website" height="200">
+      <!-- اللوغو كزر تفاعلي يوجه نحو الموقع -->
+      <img src="logo.jpg" alt="Visit KYNEX Studio Website" height="200">
   </a>
   <br>
   <strong><a href="https://kynex-studio-gwha.vercel.app/">Visit Our Official Platform ➡️</a></strong>
