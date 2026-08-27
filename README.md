@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=KYNEX+Digital+Studio;Premium+Digital+Identities;Automated+%26+Scalable+Systems" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=KYNEX+Digital+Studio;Premium+Digital+Identities;Automated+%26+Scalable+Systems" alt="Typing SVG">
 
 <img src="hh.jpg" alt="KYNEX Banner" width="65%" style="border-radius: 14px; margin-top: 10px;">
 
 <br><br>
-
-<img src="logo.jpg" alt="KYNEX Logo" width="80" style="border-radius: 50%;">
-
-<br>
 
 [![Visit Platform](https://img.shields.io/badge/🌐_VISIT_OUR_PLATFORM-1a1a1a?style=for-the-badge&labelColor=D4AF37&color=1a1a1a)](https://kynex-studio-gwha.vercel.app/)
 
